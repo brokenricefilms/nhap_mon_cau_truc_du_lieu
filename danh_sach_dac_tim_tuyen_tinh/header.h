@@ -4,10 +4,9 @@ using namespace std;
 
 const int MAX = 100;
 
-struct Danh_sach
-{
-    int number;
-    int array[MAX];
+struct Danh_sach {
+  int number;
+  int array[MAX];
 };
 
 void nhap_danh_sach(Danh_sach &danh_sach);

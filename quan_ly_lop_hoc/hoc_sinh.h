@@ -4,11 +4,11 @@ using namespace std;
 
 const int MAX = 1000;
 
-struct Hoc_sinh{
-    char ma_hoc_sinh[MAX];
-    char ho_ten[MAX];
-    int diem_van;
-    int diem_toan;
+struct Hoc_sinh {
+  char ma_hoc_sinh[MAX];
+  char ho_ten[MAX];
+  int diem_van;
+  int diem_toan;
 };
 
 void nhap_hoc_sinh(Hoc_sinh &hoc_sinh);

@@ -5,10 +5,10 @@ using namespace std;
 
 const int MAX = 100;
 
-struct Lop_hoc{
-    char ten_lop[50];
-    int si_so_lop;
-    Hoc_sinh danh_sach_hoc_sinh[MAX];
+struct Lop_hoc {
+  char ten_lop[50];
+  int si_so_lop;
+  Hoc_sinh danh_sach_hoc_sinh[MAX];
 };
 
 void nhap_lop_hoc(Lop_hoc &lop_hoc);
