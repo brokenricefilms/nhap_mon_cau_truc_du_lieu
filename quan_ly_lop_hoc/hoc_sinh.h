@@ -4,7 +4,7 @@ using namespace std;
 
 const int MAX = 1000;
 
-struct hoc_sinh{
+struct Hoc_sinh{
     char ma_hoc_sinh[MAX];
     char ho_ten[MAX];
     int diem_van;
