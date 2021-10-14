@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@unibeautify/beautifier-clang-format": "^0.2.0",
+    "unibeautify": "^0.17.1"
+  }
+}
