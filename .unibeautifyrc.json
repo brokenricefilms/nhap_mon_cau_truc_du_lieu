@@ -3,5 +3,10 @@
     "beautifiers": [
       "ClangFormat"
     ]
+  },
+  "Markdown": {
+    "beautifiers": [
+      "Prettier"
+    ]
   }
 }
